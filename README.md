@@ -5,10 +5,10 @@ This is a personal Home page project run by **IrinaSing** and **Fatihayoz** as a
 - To practise UX/UI principals in collaboration.
 - To build a webpage that would help Irina to attract potential employers and collaborators and to help her to communicate with the world.
 
-## Contributors
+## Contributing
 Main designer of the project - [Fatih Ayöz](https://github.com/Fatihayoz)  
 Web developer - [Irina Singh](https://github.com/IrinaSing)  
-Do you have something to add? Don't hesitate to fork the repo and to send a PR with respect to [Code Of Conduct](https://github.com/IrinaSing/Home-page-Irina/blob/main/CODE_OF_CONDUCT.md) and [Contributor Guidelines](https://github.com/IrinaSing/Home-page-Irina/blob/main/CONTRIBUTING.md)
+Do you have something to add? Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please read and respect [Code Of Conduct](https://github.com/IrinaSing/Home-page-Irina/blob/main/CODE_OF_CONDUCT.md) and [Contributor Guidelines](https://github.com/IrinaSing/Home-page-Irina/blob/main/CONTRIBUTING.md) of the project.
 
 ## Stages
 
