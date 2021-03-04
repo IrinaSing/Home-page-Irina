@@ -5,11 +5,11 @@ I am interviewed by Fatih, and in return, I interview him for his project and sh
 - Empathy
 - UX/UI Design
 # Stages
-- Designing. According to 
+- Designing
 - Developing
 
 # Contributors
-Main designer of the project - [Fatih Ayöz](https://github.com/Fatihayoz)
+Main designer of the project - [Fatih Ayöz](https://github.com/Fatihayoz)  
 Web developer - [Irina Singh](https://github.com/IrinaSing) 
 # Technologies
 - Figma
