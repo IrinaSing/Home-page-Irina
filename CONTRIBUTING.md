@@ -23,4 +23,7 @@ That would be nice to see small well-named commits. But no one is perfect.
 ### Documentation Styleguide
 Please use Markdown in your PRs and issues.
 
+### Code of conduct
+Please consider that in this project we stick to a standart [Contributor Covenant Code of Conduct](https://github.com/IrinaSing/Home-page-Irina/blob/main/CODE_OF_CONDUCT.md). 
+
 ## Thank you!
