@@ -3,7 +3,7 @@ This is a Homepage project run by **IrinaSing** and **Fatihayoz** as a co-author
 
 # Contributors
 Main designer of the project - [Fatih Ayöz](https://github.com/Fatihayoz)  
-Web developer - [Irina Singh](https://github.com/IrinaSing)
+Web developer - [Irina Singh](https://github.com/IrinaSing)  
 Do you have something to add? Don't hesitate to fork the repo and to send a PR with respect to [Code Of Conduct](https://github.com/IrinaSing/Home-page-Irina/blob/main/CODE_OF_CONDUCT.md) and Contributor Guidelines
 
 # Stages
