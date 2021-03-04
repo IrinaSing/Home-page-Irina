@@ -8,7 +8,7 @@ Do you have something to add? Don't hesitate to fork the repo and to send a PR w
 
 # Stages
 
-### Planning and designing (pair work)
+### Planning and design (pair work)
 - Iinterviews
 - Wireframe
 - Backlog
