@@ -5,4 +5,6 @@
 # Stages
 
 # Contributors
+Main designer of the project - 
+Web developer - @IrinaSing
 # Technologies
