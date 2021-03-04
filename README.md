@@ -1,7 +1,7 @@
 # Introduction
-This is a Homepage project that I will make with a partner to learn practise UI/UX design principles.
-I am interviewed by Fatih, and in return, I interview him and write down my notes.
-# Principles
+This is a Homepage project that I will make with a partner to practise UI/UX design principles.
+I am interviewed by Fatih, and in return, I interview him for his project and share my notes.
+# Principles used
 - Empathy
 - UX/UI Design
 # Stages
