@@ -17,13 +17,13 @@ That would be nice to see small well-named commits. But no one is perfect.
 
 ### Issues
 - Please give your Issue a clear and descriptive **title**.
-- Describe a problem as precise as possible.
+- Describe a problem as precisely as possible.
 - Add an appropriate label (bug, enhancements, question etc.)
 
 ### Documentation Styleguide
 Please use Markdown in your PRs and issues.
 
 ### Code of conduct
-Please consider that in this project we stick to a standart [Contributor Covenant Code of Conduct](https://github.com/IrinaSing/Home-page-Irina/blob/main/CODE_OF_CONDUCT.md). 
+Please consider that in this project we stick to a standard [Contributor Covenant Code of Conduct](https://github.com/IrinaSing/Home-page-Irina/blob/main/CODE_OF_CONDUCT.md). 
 
 ## Thank you!
