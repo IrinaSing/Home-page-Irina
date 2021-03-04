@@ -25,5 +25,5 @@ Web developer - [Irina Singh](https://github.com/IrinaSing)
 - HTML
 - CSS
 - CSS Framework
-
-# [Issue](https://github.com/HackYourFutureBelgium/class-13-14/issues/146) to track the project's progress 
+----  
+### [Issue](https://github.com/HackYourFutureBelgium/class-13-14/issues/146) to track the project's progress 
