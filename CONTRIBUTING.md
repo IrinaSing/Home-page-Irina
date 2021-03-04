@@ -1,4 +1,4 @@
-## How can you Contribute?
+## How can you contribute?
 
 ### There is a bug
 Something does not work on the website... 
