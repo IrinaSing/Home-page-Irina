@@ -14,11 +14,11 @@ Do you have something to add? Don't hesitate to fork the repo and to send a PR w
 - Backlog
 
 ### Development (on my own)
-- schedule (like communication plan, but for yourself)
-- constraints (include the CSS framework you chose and why)
-- development strategy
-- retrospective
-- project board
+- Schedule
+- Constraints (including the CSS framework)
+- Development strategy
+- Retrospective
+- Project board
 
  
 # Technologies
