@@ -1,6 +1,8 @@
 # Introduction
 # Table of content
-# Goals
+# Principles
+
 # Stages
+
 # Contributors
 # Technologies
