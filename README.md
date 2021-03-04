@@ -1,12 +1,16 @@
-# Introduction
-This is a Homepage project run by **IrinaSing** and **Fatihayoz** as a co-author. The main goal is to practise UX/UI principals in collaboration.
+## Introduction
+This is a personal Home page project run by **IrinaSing** and **Fatihayoz** as a co-author. 
 
-# Contributors
+## Goals  
+- To practise UX/UI principals in collaboration.
+- To build a webpage that would help Irina to attract potential employers and collaborators and to help her to communicate with the world.
+
+## Contributors
 Main designer of the project - [Fatih Ayöz](https://github.com/Fatihayoz)  
 Web developer - [Irina Singh](https://github.com/IrinaSing)  
 Do you have something to add? Don't hesitate to fork the repo and to send a PR with respect to [Code Of Conduct](https://github.com/IrinaSing/Home-page-Irina/blob/main/CODE_OF_CONDUCT.md) and [Contributor Guidelines](https://github.com/IrinaSing/Home-page-Irina/blob/main/CONTRIBUTING.md)
 
-# Stages
+## Stages
 
 ### Planning and design (pair work)
 - Iinterviews
@@ -21,7 +25,7 @@ Do you have something to add? Don't hesitate to fork the repo and to send a PR w
 - Project board
 
  
-# Technologies
+## Technologies
 - Figma
 - HTML
 - CSS
