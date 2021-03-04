@@ -1,2 +1,6 @@
-# Home-page-Irina
-UX/UI Design studies
+# Introduction
+# Table of content
+# Goals
+# Stages
+# Contributors
+# Technologies
