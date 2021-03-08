@@ -15,5 +15,5 @@
 
 - **Non-original design.** I can use other websites as inspiration for my own web design.
 - **CSS framework usage** to reach my goal in a faster way. I have chosen Bootstrap framework, because
-  it is a big library, very popular( so there are many tutorials), it is easy-to-use and to implement even for juniors. Also contains Java-Script plugins.
+  it is a big library, very popular( so there are many tutorials), it is easy-to-use and to implement even for juniors. Also contains Java-Script plugins. Realy good for mobile-first, responsive websites.
 - **One-page website.** I will make a simple one-page website. It is enough for now.
