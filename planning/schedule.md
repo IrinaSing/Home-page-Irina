@@ -5,7 +5,7 @@ App. 5-6-7 hours per day
 |:------------- |:-------------|
 | Monday | Planning, inspiration, self-study. |
 | Tuesday | Taking photos, basic layout, writing text. |
-| Wednesday | Finish design, start coding |
+| Wednesday | Finish design, write development strategy, start coding. |
 | Thursday | Coding. |
-| Friday | Coding, backlog. |
+| Friday | Coding, retrospective. |
 | Saturday | Finishing touches, contributing.|
