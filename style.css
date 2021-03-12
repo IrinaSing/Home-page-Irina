@@ -10,8 +10,25 @@ body {
 
 h1 {
   color: #ececec;
+  font-family: "Ubuntu", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+h2 {
+  font-family: "Ubuntu", sans-serif;
+  font-style: normal;
+  font-weight: 400;
 }
 
 img {
   height: 400px;
+}
+
+p {
+  font-family: "Fira Sans", sans-serif;
+}
+
+.yellow {
+  background-color: #ffecbc;
 }
