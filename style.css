@@ -32,3 +32,9 @@ p {
 .yellow {
   background-color: #ffecbc;
 }
+
+.btn-lilac {
+  background-color: #883a69;
+  width: 200px;
+  color: white;
+}
