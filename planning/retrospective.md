@@ -7,7 +7,7 @@
   what counts is that you learn from your mistakes and make a better plan next time.
 -->
 
-I did not use Project board at all, but I can say that my code is different from the Development strategy. Development strategy was based on Figma layout (general look and style parameters). But in my work I used Bootstrap, which names of classes, default styles are quite specific. The nxt step is to customize default framework styles to my design.
+I did not use Project board at all, but I can say that my code is different from the Development strategy. Development strategy was based on Figma layout (general look and style parameters). But in my work I used Bootstrap, which names of classes, default styles are quite specific. The next step is to customize default framework styles to my design.
 
 I like the workflow without using project board and issues as far as I work on my own.
 
@@ -23,6 +23,7 @@ I like the workflow without using project board and issues as far as I work on m
 -->
 
 - Using Figma and Bootstrap. Watching more tutorials and practicing more.
+- Author of this [video](https://www.youtube.com/watch?v=c9B4TPnak1A) has few helpful tutorials on Bootstrap 5.
 
 ## Start Doing
 
@@ -35,11 +36,7 @@ I like the workflow without using project board and issues as far as I work on m
   - use the github integration in slack. /github
 -->
 
-- To start on time.
-- To work with all members together.
-- Don't hesitate to ask for help!
-- To learn what you have missed to be able to keep up with other group members.
-- To notify others asap if you can not participate in a call/to finish the task on time.
+- To create live prototypes of websites in Figma. Definitely must have.
 
 ## Lessons Learned
 
@@ -48,5 +45,7 @@ I like the workflow without using project board and issues as far as I work on m
   This can be about anything! code, collaboration, git, github, ...
 -->
 
-- We learned a lot, such as: code, collaboration, git, github =)
-- Planning is very important.
+- Using CSS framework for the first time.
+- Figma interface and functions.
+- UI/UX principles on practice.
+- Responsiveness of the website.
