@@ -61,3 +61,7 @@ a:hover {
 .projLinksSpace {
   display: block; /*Otherwise padding-bottom does not work for inline-elements*/
 }
+
+.lilacSection {
+  background-color: #883a69;
+}
