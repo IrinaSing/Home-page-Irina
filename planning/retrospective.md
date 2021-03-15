@@ -11,6 +11,8 @@ I did not use Project board at all, but I can say that my code is different from
 
 I like the workflow without using project board and issues as far as I work on my own.
 
+Page turned out to be quite similar to Figma layout.
+
 ## Continue Doing
 
 <!--
