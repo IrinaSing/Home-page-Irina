@@ -39,6 +39,12 @@ p {
   color: white;
 }
 
+.btn-send {
+  background-color: #ffd978;
+  width: 200px;
+  color: #284b63;
+}
+
 /*.projectSection {
   background-color: #cef3ff;
 }*/
