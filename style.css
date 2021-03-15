@@ -65,3 +65,8 @@ a:hover {
 .contactSection {
   background-color: #cef3ff;
 }
+
+label {
+  display: block;
+  text-align: left;
+}
