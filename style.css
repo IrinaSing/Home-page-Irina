@@ -39,21 +39,25 @@ p {
   color: white;
 }
 
-.btn-git {
-  background-color: #883a69;
-  color: white;
-}
-
 .blueB {
   background-color: #cef3ff;
 }
 
 .logo {
-  height: 100px;
+  height: 120px;
 }
 
 .projLinks {
   color: #883a69;
   font-family: "Ubuntu", sans-serif;
   font-size: 20px;
+  word-spacing: normal;
+}
+
+a:hover {
+  color: black;
+}
+
+.projLinksSpace {
+  display: block; /*Otherwise padding-bottom does not work for inline-elements*/
 }
