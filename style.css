@@ -29,7 +29,7 @@ p {
   font-family: "Fira Sans", sans-serif;
 }
 
-.yellow {
+.skillSection {
   background-color: #ffecbc;
 }
 
@@ -39,29 +39,29 @@ p {
   color: white;
 }
 
-.blueB {
+/*.projectSection {
   background-color: #cef3ff;
-}
+}*/
 
 .logo {
   height: 120px;
 }
 
 .projLinks {
-  color: #883a69;
+  color: black;
   font-family: "Ubuntu", sans-serif;
   font-size: 20px;
   word-spacing: normal;
 }
 
 a:hover {
-  color: black;
+  color: #883a69;
 }
 
 .projLinksSpace {
   display: block; /*Otherwise padding-bottom does not work for inline-elements*/
 }
 
-.lilacSection {
-  background-color: #883a69;
+.contactSection {
+  background-color: #cef3ff;
 }
